@@ -1,1 +1,3 @@
-# Rebecca_Howe_Portfolio
+# Rebecca Howe Portfolio
+
+Welcome to my portfolio!

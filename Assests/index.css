@@ -10,13 +10,21 @@
     color: white;
     font-size: 15pt;
 }
-.Pumkpin_patch{
-    max-width: 325px;
-    max-height: 400px;
+
+.row{
+    justify-content: center;
 }
 
 p{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 6.5%;
     color: white;
     font-style:sans-serif;
     font-size: 15pt;
+}
+
+.img-thumbnail{
+    border-color: mediumpurple;
+    border-style: ridge;
 }
