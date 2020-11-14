@@ -26,3 +26,7 @@ The Portfolio page shows examples of my work and allows user to get an idea of w
 ![Contact Us Page](https://github.com/rhowe20/Rebecca-Howe-Portfolio/blob/main/Images/contactUs.png) 
 
 The Contact Us page allows users to contact me if they want to learn more about what I can do.
+
+![Footer](https://github.com/rhowe20/Rebecca-Howe-Portfolio/blob/main/Images/footer.png)
+
+The footer allows user to go to my social media pages. This includes my Linkden, Facebook, and Twitter.
