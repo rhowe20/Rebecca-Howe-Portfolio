@@ -1,6 +1,6 @@
 # Rebecca Howe Portfolio
 
-Welcome to my portfolio!
+Welcome to my portfolio! Utlizing both Bootstrap CSS as well as my own CSS, I have created a portfolio that is able to showcase my work. 
 
 ## Installation
 
