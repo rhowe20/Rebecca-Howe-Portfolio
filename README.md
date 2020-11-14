@@ -15,14 +15,14 @@ https://rhowe20.github.io/Rebecca-Howe-Portfolio/
 By clicking the links in the navigation bar on the top left of the page, it will direct clients to the About Me, Portfolio, and Contact pages.
 
 
-![Top of Page with Links](https://github.com/rhowe20/Horiseon/blob/main/images/top-page.png)
+![About Me Page](https://github.com/rhowe20/Rebecca-Howe-Portfolio/blob/main/Images/aboutMe.png) 
 
-The links titled "Search Engine Optimization" and "Online Reputation Management" will direct clients to the sections midway down the page.
+The About Me page explains why I have chosen to create this portfolio and what I would like to do in the future with the skills I am learning.
 
-![Links to Search Engine Optimization and Online Reputation Management](https://github.com/rhowe20/Horiseon/blob/main/images/mid-section.png) 
+![Portfolio Page](https://github.com/rhowe20/Rebecca-Howe-Portfolio/blob/main/Images/portfolio.png)
 
-The "Social Media Marketing" link will then direct clients to the bottom of the page.
+The Portfolio page shows examples of my work and allows user to get an idea of what I can do. At this time, I am still growing my portfolio. Unfortunately, this means I do not have anything to show as of yet.
 
-![Link to Social Media Marketing](https://github.com/rhowe20/Horiseon/blob/main/images/bottom-of-page.png)
+![Contact Us Page](https://github.com/rhowe20/Rebecca-Howe-Portfolio/blob/main/Images/contactUs.png) 
 
-## Updates
+The Contact Us page allows users to contact me if they want to learn more about what I can do.
