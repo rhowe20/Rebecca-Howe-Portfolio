@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 ## Installation
 
-Follow the link below to open the webpage for the Horiseon website.
+Follow the link below to open the webpage for the my portfolio website.
 
 ```bash
 https://rhowe20.github.io/Rebecca-Howe-Portfolio/
