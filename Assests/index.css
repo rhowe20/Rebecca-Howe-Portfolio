@@ -1,28 +1,8 @@
-.about-me {
-    font-family: sans-serif;
-    font-size: 30pt;
-    padding-top: 2%;
-}
-
-.nav-link{
-    font-family:sans-serif;
-    font-size: 15pt;
-}
-
-.row{
-    justify-content: center;
-}
-
-p{
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 6.5%;
-    color: white;
-    font-style:sans-serif;
-    font-size: 15pt;
-}
-
-.img-thumbnail{
-    border-color: mediumpurple;
-    border-style: ridge;
+.footer{
+    position: fixed;
+    left: 
+    0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
