@@ -6,3 +6,16 @@
     width: 100%;
     text-align: center;
 }
+
+.contact{
+text-align: center;
+}
+
+.contact-cards{
+    color: white;
+}
+
+.slider {
+    width: 900px;
+    margin: 0 auto;
+  }
