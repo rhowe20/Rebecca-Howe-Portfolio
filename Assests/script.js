@@ -28,8 +28,24 @@ $('#contact').click(function(){
     contactPage();
 })
 
+$('#about-me-mobile').click(function(){
+    aboutPage();
+})
+
+$('#portfolio-mobile').click(function(){
+    portfolioPage();
+})
+
+$('#contact-mobile').click(function(){
+    contactPage();
+})
+
 aboutPage(); 
 
 $(document).ready(function(){
     $('.slider').slider();
+  });
+
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
   });
